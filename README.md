@@ -1,5 +1,5 @@
 # C_Projects
-This is the repository of my projects in C while learning this amazing language.
+This is the repository of my projects in C while learning this amazing language Without Any AI.
 1. Clac_C
 - This is a claculator not like you give one by one input. It can do a series of operations at a time and has history functiona and info function too. History is broken now (I did it really long ago so forgot what borken it and will be fixed.)
 - You can do operations like 1+2-4*(2!-5) and then the value will be stored in "a" variable. So you can do a+5-(4+5) and pi is at p and e is at e.
