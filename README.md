@@ -5,6 +5,6 @@ This is the repository of my projects in C while learning this amazing language 
 - You can do operations like 1+2-4*(2!-5) and then the value will be stored in "a" variable. So you can do a+5-(4+5) and pi is at p and e is at e.
 - For more info use "i" and history use "h".
 2. Tic Tec Toe
-- It has player vs player and player vs computer. Have fun
+- It has player vs player and player vs computer. Have fun.
 
 ** I written them while learning C so you may find them childinsh coding if you are expart. Sorry for dissapointment.**
